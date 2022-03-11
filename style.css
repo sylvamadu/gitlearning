@@ -1,5 +1,7 @@
 *{
 color: red;
+  border: none;
+  font: 12px;
 }
 header{
 background: white;
